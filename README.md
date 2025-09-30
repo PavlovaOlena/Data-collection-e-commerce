@@ -1,11 +1,3 @@
-# SQL Advanced Module – Final Project
-
-## 📘 Overview
-
-This repository focused on analyzing user and email activity using a **BigQuery** e-commerce dataset. The project includes a single **SQL query** to generate a detailed dataset and a visualization built in **Looker Studio**.
-
----
-
 ## 🎯 Objective
 
 The goal is to collect data for:
